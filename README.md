@@ -10,7 +10,7 @@
 - 👯 I’m open to collaborate on:  
 Web Development Projects | Smart Dashboards | Community Tech Projects
 
-- 💬 Ask me about:  React, GSAP, Tailwind CSS, Data Visualization
+- 💬 Ask me about:  React, GSAP, Tailwind CSS, Data Visualization html 5 
 
 - 📫 How to reach me **surushev007@gmail.com**
 
