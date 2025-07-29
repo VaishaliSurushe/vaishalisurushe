@@ -19,7 +19,7 @@ Web Development Projects | Smart Dashboards | Community Tech Projects
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishali-surushe-b00bb4228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishali-surushe-b00bb4228" height="30" width="40" /></a>
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vaishali_27__?igsh=bDA4OGkweXZpMGk0)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
