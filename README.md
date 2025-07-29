@@ -5,9 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishalisurushe" alt="vaishalisurushe" /></a> </p>
 
-- 🌱 I’m currently learning **Python Full Stack Development at Pentagon Space, Bangalore**
+- 🌱 I’m currently learning **Python Full Stack Development(Django, React, REST API9) at Pentagon Space, Bangalore**
 
-- 💬 Ask me about **react**
+- 👯 I’m open to collaborate on:  
+Web Development Projects | Smart Dashboards | Community Tech Projects
+
+- 💬 Ask me about:  React, GSAP, Tailwind CSS, Data Visualization
 
 - 📫 How to reach me **surushev007@gmail.com**
 
