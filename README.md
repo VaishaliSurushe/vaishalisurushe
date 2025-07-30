@@ -20,7 +20,8 @@
 - 👯 I’m open to collaborate on:  
 Web Development Projects | Smart Dashboards | Community Tech Projects
 
-- 💬 Ask me about:  React, GSAP, Tailwind CSS, Data Visualization html 5 
+- 💬 Ask me about: ChatGPT prompts, PHP projects, dashboards, AI Tools, Power BI or anything tech-related I’ve worked on!
+
 
 - 📫 How to reach me **surushev007@gmail.com**
 
